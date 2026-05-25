@@ -60,7 +60,7 @@ install.packages("Seurat")
 install.packages(c("CellChat", "Harmony", "Monocle3"))
 PLINK can be downloaded from https://www.cog-genomics.org/plink/.
 
-5. Usage
+## 5. Usage
 Run the scripts in the following order:
 
 01_mr_analysis.R
@@ -85,7 +85,7 @@ Output: Clustering, annotation, differential expression, cell communication, pse
 
 All output files are automatically saved under the results/ directory.
 
-6. Data Availability
+## 6. Data Availability
 All input data are publicly available. See data/README.md for detailed accessions and links.
 
 Dataset	Source	Accession
@@ -94,13 +94,13 @@ pQTL	deCODE study	See reference [24]
 mQTL	CLSA study	See references [26,27]
 Single-cell RNA-seq (tibial nerve)	GEO	GSE266026
 1000 Genomes LD reference	MRC IEU	Download
-7. License
+## 7. License
 This project is licensed under the MIT License – see the LICENSE file.
 
-8. Citation
+## 8. Citation
 For the code only: [Shuxian Lu]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. DOI: 10.5281/zenodo.XXXXXXX
 
 For the paper: Citation will be updated upon publication.
 
-9. Contact
+## 9. Contact
 For questions, please contact [Shuxian Lu] at [shuxianlu1216@163.com] or open an issue in this repository.
