@@ -94,6 +94,16 @@ pQTL	deCODE study	See reference [24]
 mQTL	CLSA study	See references [26,27]
 Single-cell RNA-seq (tibial nerve)	GEO	GSE266026
 1000 Genomes LD reference	MRC IEU	Download
+
+## ⚠️ Note on Results
+
+To protect the confidentiality of the core findings during peer review, **only example result outputs** are provided in this repository:
+
+- **`results/tables/`**: Contains **screenshots of result tables** (PNG format). These demonstrate the structure and formatting of the output, but the underlying raw numerical data (`.csv` files) are temporarily hidden. Full data tables will be made available upon manuscript acceptance.
+- **`results/figures/`**: Contains the main figures from the manuscript. These are the same as those included in the submitted article.
+
+The R scripts in `code/` will reproduce the complete original results upon execution.
+
 ## 7. License
 This project is licensed under the MIT License – see the LICENSE file.
 
