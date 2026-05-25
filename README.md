@@ -98,7 +98,7 @@ Single-cell RNA-seq (tibial nerve)	GEO	GSE266026
 This project is licensed under the MIT License – see the LICENSE file.
 
 ## 8. Citation
-For the code only: [Shuxian Lu]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. DOI: 10.5281/zenodo.XXXXXXX
+For the code only: [Lu et al.]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. DOI: 10.5281/zenodo.XXXXXXX
 
 For the paper: Citation will be updated upon publication.
 
