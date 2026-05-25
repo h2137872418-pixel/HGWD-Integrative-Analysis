@@ -1,13 +1,13 @@
 # Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of Huangqi Guizhi Wuwu Decoction in Diabetic Peripheral Neuropathy
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20379784.svg)](https://doi.org/10.5281/zenodo.20379784)
 
 **⚠️ Manuscript Status: Under Review**
 
 The corresponding manuscript is currently under review at *Journal of Diabetes Research*.  
 This repository contains the analysis code supporting the findings. Once the paper is published, please cite the final article.  
 For now, you may cite this repository as:  
-`[Authors]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX`
+`[Authors]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20379784`
 
 ## 1. Project Overview
 This repository provides the complete analytical code used in the study **"Integrative Multi-Omics and Experimental Validation Identify JUN and HSPB1 as Direct Therapeutic Targets of Huangqi Guizhi Wuwu Decoction in Diabetic Peripheral Neuropathy"**.  
@@ -108,7 +108,7 @@ The R scripts in `code/` will reproduce the complete original results upon execu
 This project is licensed under the MIT License – see the LICENSE file.
 
 ## 8. Citation
-For the code only: [Lu et al.]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. DOI: 10.5281/zenodo.XXXXXXX
+For the code only: [Lu et al.]. (2026). Code for "Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of HGWD in DPN" (v1.0.0). Zenodo. DOI: 10.5281/zenodo.20379784
 
 For the paper: Citation will be updated upon publication.
 
