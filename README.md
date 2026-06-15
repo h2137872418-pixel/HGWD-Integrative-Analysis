@@ -1,4 +1,4 @@
-# Integrative Multi-Omics Analysis Identifies JUN and HSPB1 as Therapeutic Targets of Huangqi Guizhi Wuwu Decoction in Diabetic Peripheral Neuropathy
+# Integrative Multi-Omics and Experimental Validation Identify JUN and HSPB1 as Direct Therapeutic Targets of Huangqi Guizhi Wuwu Decoction in Diabetic Peripheral Neuropathy
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20379784.svg)](https://doi.org/10.5281/zenodo.20379784)
 
